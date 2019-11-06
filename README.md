@@ -1,5 +1,5 @@
 # aws-deepracer-in-24h
-AWS Deepracer challenge, Toronto turnpike
+AWS Deepracer challenge 2019, Toronto turnpike
 https://aws.amazon.com/deepracer/league/
 
 We (https://github.com/EXYNOS-999 and I) found out about the challenge just over 24 hours before the submission deadline. We were able to submit a model in only 24 hours, from knowing absolutely nothing about Reinforcement Learning to training and evaluating 4 different models using 4 different reward functions. Our best model was ranked 835 out of almost 2000 submissions. This was an exciting hackathon to participate because we got exposed to both the conceptual and practical side of Reinforcement Learning.
